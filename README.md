@@ -47,3 +47,23 @@ array([
      [ 9, 10],
      [11, 12]]
 ])
+
+🧩 Merge & Split Arrays
+
+    Merge two arrays without specifying the axis.
+
+    Merge two arrays along axis=1.
+
+    Split the merged array into two arrays using axis=1.
+
+📚 Course Information
+
+    Course: Data Analysis and Processing: NumPy Library
+
+    Track: Data Science and Artificial Intelligence
+
+    Platform: satr
+
+📌 Notes
+
+This project reinforces NumPy theory through hands-on coding, and builds foundational skills for data manipulation and analysis
