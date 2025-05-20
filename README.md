@@ -47,7 +47,7 @@ array([
      [ 9, 10],
      [11, 12]]
 ])
-
+``` 
 🧩 Merge & Split Arrays
 
     Merge two arrays without specifying the axis.
@@ -66,4 +66,4 @@ array([
 
 📌 Notes
 
-This project reinforces NumPy theory through hands-on coding, and builds foundational skills for data manipulation and analysis
+This project reinforces NumPy theory through hands-on coding, and builds foundational skills for data manipulation and analysis.
